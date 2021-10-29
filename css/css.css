@@ -1,0 +1,33 @@
+p
+{
+    font-size: 24px;
+    color: rgb(82, 51, 14);
+    background-color: rgb(211, 160, 160);
+}
+.s
+{
+    color: darkblue;
+    font-size: 24px;
+    font-weight: 800;
+    border:darkblue 10px solid;
+    background-color: darkcyan;
+    width: 520px;
+}
+#S
+{
+    width: 500px
+}
+.asd
+{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(118, 193, 255);
+}
+h1
+{
+    color: darkblue;
+}
+span
+{
+    color: red;
+}
